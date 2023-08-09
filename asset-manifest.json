@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goal-daily-project/static/css/main.e7e50a2a.css",
+    "main.js": "/goal-daily-project/static/js/main.a2442436.js",
+    "index.html": "/goal-daily-project/index.html",
+    "main.e7e50a2a.css.map": "/goal-daily-project/static/css/main.e7e50a2a.css.map",
+    "main.a2442436.js.map": "/goal-daily-project/static/js/main.a2442436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e50a2a.css",
+    "static/js/main.a2442436.js"
+  ]
+}
